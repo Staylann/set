@@ -2700,20 +2700,18 @@
 	{
 		"phrase": "Rotate structure clockwise",
 		"comment": "A structure refers to a 5x5x5 group of blocks that a player can customise in their ship, then place quickly in battle. Pressing this keybind rotates the structure clockwise",
-		"translation": "Faire pivoter la structure dans le sens des aiguilles d'une montre",
-		"machine": true
+		"translation": "Faire pivoter la structure dans le sens de l'horloge"
 	},
 	{
 		"phrase": "Rotate structure anticlockwise",
 		"comment": "Pressing this keybind rotates the structure anticlockwise",
-		"translation": "Tourner la structure dans le sens inverse des aiguilles d'une montre",
-		"machine": true
+		"translation": "Tourner la structure dans le sens inverse de l'horloge"
 	},
 	{
 		"phrase": "Spectate Battle",
 		"comment": "Abandon Helix and spectate the battle from afar. A smart choice",
-		"translation": "Bataille de spectateur",
-		"machine": true
+		"translation": "Bataille en mode spectateur"
+		'#bookmark'
 	},
 	{
 		"phrase": "Unstuck",
