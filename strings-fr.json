@@ -2700,122 +2700,102 @@
 	{
 		"phrase": "Rotate structure clockwise",
 		"comment": "A structure refers to a 5x5x5 group of blocks that a player can customise in their ship, then place quickly in battle. Pressing this keybind rotates the structure clockwise",
-		"translation": "Faire pivoter la structure dans le sens des aiguilles d'une montre",
-		"machine": true
+		"translation": "Pivoter la structure dans le sens d'une horloge"
 	},
 	{
 		"phrase": "Rotate structure anticlockwise",
 		"comment": "Pressing this keybind rotates the structure anticlockwise",
-		"translation": "Tourner la structure dans le sens inverse des aiguilles d'une montre",
-		"machine": true
+		"translation": "Pivoter la structure dans le sens d'une horloge"
 	},
 	{
 		"phrase": "Spectate Battle",
 		"comment": "Abandon Helix and spectate the battle from afar. A smart choice",
-		"translation": "Bataille de spectateur",
-		"machine": true
+		"translation": "Bataille en mode spectateur"
 	},
 	{
 		"phrase": "Unstuck",
 		"comment": "[Keybind] If you get stuck, press this keybind to teleport to the center of the map",
-		"translation": "Décollé",
-		"machine": true
+		"translation": "Décoinçage"
 	},
 	{
 		"phrase": "Reload Map",
 		"comment": "[Keybind] Reloads the map the player is testing locally",
-		"translation": "Recharger la carte",
-		"machine": true
+		"translation": "Recharger la carte"
 	},
 	{
 		"phrase": "Toggle Fall Damage",
 		"comment": "[Keybind]",
-		"translation": "Basculer les dégâts de chute",
-		"machine": true
+		"translation": "Basculer les dégats de chute"
 	},
 	{
 		"phrase": "Teleport",
 		"comment": "[Keybind]",
-		"translation": "Téléportation",
-		"machine": true
+		"translation": "Téléportation"
 	},
 	{
 		"phrase": "Select block type",
 		"comment": "[Keybind] If a player looks at a block and selects it, they will build with that block type from then on",
-		"translation": "Sélectionnez le type de bloc",
-		"machine": true
+		"translation": "Sélectionnez le type de bloc"
 	},
 	{
 		"phrase": "Toggle Fly Camera",
 		"comment": "[Keybind]",
-		"translation": "Basculer la caméra de vol",
-		"machine": true
+		"translation": "Basculer la caméra de vol"
 	},
 	{
 		"phrase": "Show settings",
 		"comment": "[Keybind] Show the settings window",
-		"translation": "Afficher les paramètres",
-		"machine": true
+		"translation": "Afficher les paramètres"
 	},
 	{
 		"phrase": "Voice Chat \/ Push To Talk",
 		"comment": "[Keybind]",
-		"translation": "Chat vocal \/ push to talk",
-		"machine": true
+		"translation": "Chat vocal \/ Appuie pour parler"
 	},
 	{
 		"phrase": "Mute All Players",
 		"comment": "[Keybind] Mute all players in voice chat",
-		"translation": "Couper le son de tous les joueurs",
-		"machine": true
+		"translation": "Couper le micro de tous les joueurs"
 	},
 	{
 		"phrase": "Mute All Enemies",
 		"comment": "[Keybind] Mute all enemies in voice chat",
-		"translation": "Couper tous les ennemis",
-		"machine": true
+		"translation": "Couper le micro de tous les ennemis"
 	},
 	{
 		"phrase": "Small Canister",
 		"comment": "A small canister on the Midi can store a small amount of matter\/Soltrium\/particles",
-		"translation": "Petit bidon",
-		"machine": true
+		"translation": "Petit bidon"
 	},
 	{
 		"phrase": "Medium Canister",
 		"comment": "A medium canister on the Midi can hold a bit more matter",
-		"translation": "Bidon moyen",
-		"machine": true
+		"translation": "Bidon moyen"
 	},
 	{
 		"phrase": "Large Canister",
 		"comment": "A large canister on the Midi can hold a lot of stuff",
-		"translation": "Grand bidon",
-		"machine": true
+		"translation": "Grand bidon"
 	},
 	{
 		"phrase": "Budget Core",
 		"comment": "The core on the Midi fabricates matter from the particles stored in the canister. The budget core can create weak blocks",
-		"translation": "Budget de base",
-		"machine": true
+		"translation": "Budget de base"
 	},
 	{
 		"phrase": "Ion Core",
 		"comment": "The ion core can create stronger blocks while consuming less matter from the canister",
-		"translation": "Noyau ionique",
-		"machine": true
+		"translation": "Noyau ionique"
 	},
 	{
 		"phrase": "Dual Proto Core",
 		"comment": "The Dual Proto core is the best in the market and can create very strong blocks",
-		"translation": "Proto-cœur double",
-		"machine": true
+		"translation": "Proto-cœur double"
 	},
 	{
 		"phrase": "Solid Rail",
 		"comment": "The rod in the center of the Midi is condensed Soltrium that generates a laser that can cut through blocks",
-		"translation": "Rail solide",
-		"machine": true
+		"translation": "Rail solide"
 	},
 	{
 		"phrase": "Quad Rail",
